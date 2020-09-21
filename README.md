@@ -24,6 +24,8 @@ This workflow provides a few commands for managing Private Internet Access.
 | `pia background`          | Start PIA in the background so that the GUI doesn't need to be running.                            |
 | `pia exit`                | Stop the background daemon if it is running.                                                       |
 
+Regions should be specified as lowercase separated by dashes (e.g. `uk-london`). Visit [this page](https://privateinternetaccess.com/pages/network) for a full list of available regions.
+
 ## Change log
 
 Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed recently.
