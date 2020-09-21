@@ -132,7 +132,7 @@ if [ -z "${protocol}" ]; then
     protocol="openvpn"
 fi
 
-/usr/local/bin/piactl set procol "${protocol}"</string>
+/usr/local/bin/piactl set protocol "${protocol}"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
