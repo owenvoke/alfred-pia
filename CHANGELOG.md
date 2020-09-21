@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## Unreleased
 
+## v1.0.2 - 2020-09-21
+
+### Fixed
+- Fix typo in protocol command ([bdd098b](https://github.com/owenvoke/alfred-pia/commit/bdd098ba28cb7304212cc1cb60dc5658ce941e9a))
+
 ## v1.0.1 - 2020-09-21
 
 ### Added
