@@ -15,14 +15,14 @@ Download the Alfred file from the [Releases](https://github.com/owenvoke/alfred-
 
 This workflow provides a few commands for managing Private Internet Access.
 
-| Command                 | Description                                                                                        |
-| ----------------------- | -------------------------------------------------------------------------------------------------- |
-| pia connect             | Connect to the configured Private Internet Access region.                                          |
-| pia disconnect          | Disconnect from the current Private Internet Access endpoint.                                      |
-| pia region [region]     | Set the configured region for Private Internet Access (use "auto" for automatic region selection). |
-| pia protocol [protocol] | Set the PIA protocol to either "openvpn" or "wireguard". Default is OpenVPN.                       |
-| pia background          | Start PIA in the background so that the GUI doesn't need to be running.                            |
-| pia exit                | Stop the background daemon if it is running.                                                       |
+| Command                   | Description                                                                                        |
+| ------------------------- | -------------------------------------------------------------------------------------------------- |
+| `pia connect`             | Connect to the configured Private Internet Access region.                                          |
+| `pia disconnect`          | Disconnect from the current Private Internet Access endpoint.                                      |
+| `pia region [region]`     | Set the configured region for Private Internet Access (use "auto" for automatic region selection). |
+| `pia protocol [protocol]` | Set the PIA protocol to either "openvpn" or "wireguard". Default is OpenVPN.                       |
+| `pia background`          | Start PIA in the background so that the GUI doesn't need to be running.                            |
+| `pia exit`                | Stop the background daemon if it is running.                                                       |
 
 ## Change log
 
