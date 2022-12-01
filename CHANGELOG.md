@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com), and this 
 
 ## Unreleased
 
+## v1.1.0 - 2022-12-01
+
+### Added
+- Format regions for `pia region` command ([a22c06a](https://github.com/owenvoke/alfred-pia/commit/a22c06a07cf1dd6f11712842719f6be18629c93f)
+
 ## v1.0.2 - 2020-09-21
 
 ### Fixed
