@@ -358,6 +358,8 @@ if [ -z "${region}" ]; then
     region="auto"
 fi
 
+region="$(echo "$region" | tr '[:upper:]' '[:lower:]' | tr ' ' '-')"
+
 /usr/local/bin/piactl set region "${region}"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
